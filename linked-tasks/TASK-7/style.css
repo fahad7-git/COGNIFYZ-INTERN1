@@ -1,0 +1,49 @@
+/* Custom Styling for Task 7 */
+
+/* Hero button customization */
+.btn-custom {
+  background-color: #ff5722;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-custom:hover {
+  background-color: #e64a19;
+  color: #fff;
+}
+
+/* Card hover effect */
+.card {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Contact form styling */
+form input, form textarea {
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+form button {
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.haha{
+    width: 100%;
+    height: 235px;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+
+.huhu{
+    width: 100%;
+    height: 235px;
+    border-radius: 5px;
+    object-fit: cover;
+}
